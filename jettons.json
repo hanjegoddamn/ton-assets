@@ -169,6 +169,17 @@
   "symbol": "GIFTED"
  },
  {
+  "address": "0:0e52f0e75a20675103094cf0bdb87d0757a4ec95fbbb9472ff4f1fb732585991",
+  "description": "\u201cMemelandia? MemeRepublic? GROYPLANDIA!!! | Deployed from Groypad. | Creator Fees are directed to @fomoebyr\u201d",
+  "image": "https://i.postimg.cc/WpWDyFdd/IMG-0093.jpg",
+  "name": "GROYPLANDIA",
+  "social": [
+   "https://t.me/groyplandia",
+   "https://x.com/glandia_ton"
+  ],
+  "symbol": "GLANDIA"
+ },
+ {
   "address": "0:556325320f4160b4f9b5b799a8086d4b78e2d0d7c02226d52deeb3dfd4f46f12",
   "description": "GrokWithTon is a token born on the TON blockchain as a tribute from the TON community to Grok \u2014 the sharp-tongued, chaos-loving AI that brought humor and insight to the world of artificial intelligence.",
   "image": "https://tokens.gas111.com/images/32c2fc00549d49f29c41378a2894eac3.png",

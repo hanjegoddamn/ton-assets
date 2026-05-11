@@ -10347,6 +10347,17 @@
   ]
  },
  {
+  "address": "0:bfef87a9a30c9c30e4e24429f1cccaddb3600ff7829ac21ad8a7fd23bc5370b1",
+  "description": "Meet The Virus \u2013 not your typical threat, but a charismatic character straight from the beloved Telegram sticker pack. What once began as a playful addition to digital conversations has now taken on a life of its own, transcending its virtual origins to become a phenomenon on the TON Network.",
+  "image": "https://iili.io/JSJfzjj.png",
+  "name": "THE VIRUS",
+  "social": [
+   "https://x.com/VIRUSCTO",
+   "https://t.me/TheVirusOnTon"
+  ],
+  "symbol": "VIRUS"
+ },
+ {
   "address": "0:3aa59787efab4b4790864a7518396451633d19702533cffd46cf4deb04568f0b",
   "decimals": 0,
   "description": "Coin for TonVillages game. Play at t.me/TonVillagesBot",

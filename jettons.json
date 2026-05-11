@@ -7252,6 +7252,17 @@
   ]
  },
  {
+  "address": "0:035618892a6b6118c2057765a4e8709086c754cfac2ed5de68a47442cd10b76e",
+  "description": "Built on TON, PLAN grew around a simple idea even the smallest plankton becomes strong when moving with purpose. Stay sharp, stay early, follow the plan.",
+  "image": "https://i.ibb.co/N60r136C/photo.jpg",
+  "name": "Plankton",
+  "social": [
+   "https://x.com/planonton",
+   "https://t.me/PlanktonWithPlan"
+  ],
+  "symbol": "PLAN"
+ },
+ {
   "address": "0:e01ae075e55508ef0909f5ce7fb6342cc16b9e3c4b6a4c35d21c860a30c4b1c7",
   "description": "Palladium Venture Foundation",
   "image": "https://raw.githubusercontent.com/Palladium-foundation/website/main/logo.png",

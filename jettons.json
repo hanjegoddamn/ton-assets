@@ -11972,6 +11972,19 @@
   ]
  },
  {
+  "address": "0:89e73c46909bbc06b25bbd4558212fe425264c99bc51fe4d3d77a8f67c1bc357",
+  "description": "Deployed from sTONks",
+  "image": "https://img.stonks.cash/8b3e700e-be34-474f-bd62-2e2f98b9fbdd.jpg",
+  "name": "\u91d1\u72d7 TON",
+  "social": [
+   "https://t.me/goldendog_ton"
+  ],
+  "symbol": "\u91d1\u72d7",
+  "websites": [
+   "http://goldendog.site"
+  ]
+ },
+ {
   "address": "0:f15ae83b9d7a9a35deab7e497cc519beebba98af99ebf14b959eff6683dfc14a",
   "description": "Meet Mr Greene \u2014 the face of the official PEPE sticker pack on Telegram!",
   "image": "https://greeneton.carrd.co/assets/images/image02.png?v=07f9ae64",
@@ -14690,11 +14703,6 @@
   "symbol": "\u9053\u5fb7\u7d93"
  },
  {
-  "address": "0:89e73c46909bbc06b25bbd4558212fe425264c99bc51fe4d3d77a8f67c1bc357",
-  "name": "\u91d1\u72d7 TON",
-  "symbol": "\u91d1\u72d7"
- },
- {
   "address": "0:e119110357de400343a670b3507ce9cd23049995fe5dd6b7c07cf96ac46492e5",
   "description": "Solution for business and for banks. We develop useful and attractive projects. We create services that help people run their businesses and improve their management systems.",
   "image": "https://raw.githubusercontent.com/tmrrw-dev/logo/refs/heads/main/photo_2025-12-24_20-33-56.jpg",
@@ -17194,7 +17202,7 @@
  {
   "address": "0:18e6b35d1de56e8f225425cb6faa65362597b7a1e6c0816b3c842185d3abeb63",
   "description": "A Safe journey to the Moon. Initial LP locked 100% forever on dedust locker.",
-  "image": "https://www.image2url.com/r2/default/images/1777622695995-560c492b-6c30-4ca6-be5c-ac83e6ac8632.jpgARNI_Logo.png",
+  "image": "https://raw.githubusercontent.com/tmrrw-dev/logo/refs/heads/main/IMG_0698.jpeg",
   "name": "SAFEMOON",
   "social": [
    "https://t.me/safemoon_ton"

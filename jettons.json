@@ -17789,6 +17789,14 @@
   ]
  },
  {
+  "address": "0:d7ef975444f06e9b154f30ae156a2e806dad9b8fa3b900fa074b6bf5b5bc63c3",
+  "name": "SCoin",
+  "symbol": "SCoin",
+  "decimals": 6,
+  "image": "https://files.catbox.moe/8hmgp0.png",
+  "description": "SCoin is the official currency of CoalRise Minecraft server. Players earn tokens through gameplay and in-server activities. SCoin is designed to bridge gaming and real-world value for the CoalRise community. Community: https://t.me/CoalRiseOff"
+},
+ {
   "address": "0:050e756b3c23ad5fa2729a54241ae60203a6ff16b9869f98a6a05f70ff62b3bf",
   "description": "\u4e2d\u6587MTONGA\u53d9\u4e8b\uff0c\u8ba9\u6211\u4eec\u4e00\u8d77\u8ba9TON\u4f1f\u5927\uff01",
   "image": "https://i.ibb.co/wN8H28Xp/IMAGE-2026-05-09-13-15-07.jpg",
